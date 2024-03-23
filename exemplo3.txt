@@ -1,1 +1,3 @@
 
+Alteração via github para verificar a atualização do repositório local com o 
+comando git pull.
