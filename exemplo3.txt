@@ -3,3 +3,5 @@ Alteração via github para verificar a atualização do repositório local com 
 comando git pull.
 
 Alteração via visual Studio
+
+Foi removido a pasta de log com seus respectivos arquivos de log.
